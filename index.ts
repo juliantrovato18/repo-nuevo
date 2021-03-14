@@ -45,4 +45,4 @@ class Edificio {
 
 
   }
-
+//console.log("hola");
